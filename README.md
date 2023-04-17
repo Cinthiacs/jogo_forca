@@ -19,10 +19,10 @@ O jogo continua até que o jogador 2 adivinhe a palavra secreta ou a forca estej
 # clonar repositório
 git clone https://github.com/Cinthiacs/jogo_forca.git
 ``` 
-Este programa foi desenvolvido no ambiente de desenvolvimento DEV-C++. 
-Para usá-lo, basta abrir o arquivo jogo_da_forca.cpp na IDE DEV-C++ e compilar o código. 
+* Este programa foi desenvolvido no ambiente de desenvolvimento DEV-C++. 
+* Para usá-lo, basta abrir o arquivo jogo_da_forca.cpp na IDE DEV-C++ e compilar o código. 
 
-Certifique-se de que os arquivos de cabeçalho stdio.h, string.h, time.h, locale.h e stdlib.h estejam incluídos no seu ambiente de desenvolvimento.
+* Certifique-se de que os arquivos de cabeçalho stdio.h, string.h, time.h, locale.h e stdlib.h estejam incluídos no seu ambiente de desenvolvimento.
 
 ### Autora
 Cinthia Cavalheiro.
