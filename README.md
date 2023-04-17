@@ -14,6 +14,11 @@ Se o jogador 2 adivinhar uma letra errada, uma parte do desenho da forca é adic
 O jogo continua até que o jogador 2 adivinhe a palavra secreta ou a forca esteja completamente desenhada.
 
 ## Como usar
+
+```bash
+# clonar repositório
+git clone https://github.com/Cinthiacs/jogo_forca.git
+``` 
 Este programa foi desenvolvido no ambiente de desenvolvimento DEV-C++. 
 Para usá-lo, basta abrir o arquivo jogo_da_forca.cpp na IDE DEV-C++ e compilar o código. 
 
