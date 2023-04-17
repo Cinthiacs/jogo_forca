@@ -4,14 +4,13 @@ Este é um jogo simples de forca feito em C++.
 
 ## Funcionamento
 
-O jogo é iniciado pedindo o nome do jogador 1, que deve digitar uma palavra secreta e uma dica para que o jogador 2 adivinhe a palavra. 
-Em seguida, o jogador 2 digita seu nome e a dica é exibida.
+* O jogo é iniciado pedindo o nome do jogador 1, que deve digitar uma palavra secreta e uma dica para que o jogador 2 adivinhe a palavra. 
+* Em seguida, o jogador 2 digita seu nome e a dica é exibida.
 
-O jogo começa com uma série de sublinhados representando as letras da palavra secreta. 
-O jogador 2 deve adivinhar as letras da palavra secreta e cada letra correta é revelada na posição correta na palavra secreta. 
-Se o jogador 2 adivinhar uma letra errada, uma parte do desenho da forca é adicionada.
-
-O jogo continua até que o jogador 2 adivinhe a palavra secreta ou a forca esteja completamente desenhada.
+1. O jogo começa com uma série de sublinhados representando as letras da palavra secreta. 
+2. O jogador 2 deve adivinhar as letras da palavra secreta e cada letra correta é revelada na posição correta na palavra secreta. 
+3. Se o jogador 2 adivinhar uma letra errada, uma parte do desenho da forca é adicionada.
+4. O jogo continua até que o jogador 2 adivinhe a palavra secreta ou a forca esteja completamente desenhada.
 
 ## Como usar
 
